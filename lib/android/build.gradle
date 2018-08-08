@@ -47,4 +47,5 @@ dependencies {
   implementation "com.google.android.gms:play-services-base:$googlePlayServicesVersion"
   implementation "com.google.android.gms:play-services-maps:$googlePlayServicesVersion"
   implementation "com.google.maps.android:android-maps-utils:$androidMapsUtilsVersion"
+  implementation group: 'org.apache.commons', name: 'commons-math3', version: '3.0'
 }
