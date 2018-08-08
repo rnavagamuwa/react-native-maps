@@ -46,6 +46,5 @@ dependencies {
   compileOnly "com.facebook.react:react-native:+"
   implementation "com.google.android.gms:play-services-base:$googlePlayServicesVersion"
   implementation "com.google.android.gms:play-services-maps:$googlePlayServicesVersion"
-//  implementation "com.google.maps.android:android-maps-utils:$androidMapsUtilsVersion"
-//  implementation "com.github.rnavagamuwa:android-maps-utils:master-SNAPSHOT"
+  implementation "com.google.maps.android:android-maps-utils:$androidMapsUtilsVersion"
 }
